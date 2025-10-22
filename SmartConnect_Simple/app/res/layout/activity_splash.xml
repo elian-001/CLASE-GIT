@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#2196F3">
+
+    <TextView
+        android:text="SmartConnect"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"/>
+</LinearLayout>
